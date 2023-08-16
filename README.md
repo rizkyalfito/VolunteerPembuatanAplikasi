@@ -5,3 +5,4 @@ Repositori ini dibuat untuk sayembara vlounter untuk pembuatan aplikasi fito, si
 
 Berikut nama yang diterima sebagai volunteer:
 * Rizky Alfito, [awikwok.id](https://awikwok.id)
+* Aurelients, [awokawok.id](https://awokawok.id)
